@@ -23,7 +23,7 @@ Each month is broken into 4 sections with the remainder of the month set for ref
 01/24/25_3	working on the Basics of Quantum Information course by IBM (can get an online badge at the end of it!)
 
 ---Section 1---2
-02/03/25_1	learned about Topological Quantum Computing (the most theoretical current model, based on Majorana Zero-Mode Quasi-Particles? ask Grok for more info, a type of 'antiparticle' which means if they meet each they annihilate each other completely)
+02/03/25_1	learned about Topological Quantum Computing (the most theoretical current model, based on Majorana Zero-Mode Quasi-Particles? asked Grok for more info, a type of 'antiparticle' which means if they meet each they annihilate each other completely, not sure on usefulness)
 
 
 
