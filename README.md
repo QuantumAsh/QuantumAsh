@@ -1,6 +1,3 @@
-Every adventure unfolds from a step into the unknown.
-blazeworksgames.itch.io/twilight-flyer
-
 3 PROGRESS POINTS A WEEK TOWARDS THE PRIMARY OBJECTIVE
 
 PRIMARY OBJECTIVE -> Create an AI assisted Quantum Correction Algorithm which is respresented through Music
